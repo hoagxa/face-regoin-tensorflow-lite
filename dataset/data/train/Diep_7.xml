@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Diep_7.jpg</filename>
+	<path>D:\Robot_Project\Dataset\images\Diep_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>312</ymin>
+			<xmax>553</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

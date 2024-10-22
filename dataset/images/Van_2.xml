@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Van_2.jpg</filename>
+	<path>D:\Robot_Project\Dataset\images\Van_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>854</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>46</ymin>
+			<xmax>392</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

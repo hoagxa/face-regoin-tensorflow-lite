@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Unknown_3.jpg</filename>
+	<path>D:\Robot_Project\Dataset\images\Unknown_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>871</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unknown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>186</ymin>
+			<xmax>805</xmax>
+			<ymax>1052</ymax>
+		</bndbox>
+	</object>
+</annotation>
