@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>Van_0.jpg</filename>
-	<path>D:\Robot_Project\Dataset\images\Van_0.jpg</path>
+	<path>D:\Robot_Project\face-regoin-tensorflow-lite\dataset\images\Van_0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>91</xmin>
-			<ymin>79</ymin>
-			<xmax>332</xmax>
-			<ymax>433</ymax>
+			<xmin>79</xmin>
+			<ymin>83</ymin>
+			<xmax>324</xmax>
+			<ymax>437</ymax>
 		</bndbox>
 	</object>
 </annotation>

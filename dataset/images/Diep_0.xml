@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>Diep_0.jpg</filename>
-	<path>D:\Robot_Project\Dataset\images\Diep_0.jpg</path>
+	<path>D:\Robot_Project\face-regoin-tensorflow-lite\dataset\images\Diep_0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>166</xmin>
+			<xmin>167</xmin>
 			<ymin>312</ymin>
-			<xmax>533</xmax>
+			<xmax>534</xmax>
 			<ymax>848</ymax>
 		</bndbox>
 	</object>

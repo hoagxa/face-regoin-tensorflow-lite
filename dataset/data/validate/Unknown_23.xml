@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Unknown_23.jpg</filename>
+	<path>D:\Robot_Project\face-regoin-tensorflow-lite\dataset\images\Unknown_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unknown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>173</ymin>
+			<xmax>820</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1179,7 +1179,12 @@ class MainWindow(QMainWindow, WindowMixin):
 
     def show_bounding_box_from_annotation_file(self, file_path):
         if self.default_save_dir is not None:
-            basename = os.path.basename(os.path.splitext(file_path)[0])
+            if file_path:  # Kiểm tra xem file_path có khác None không
+                basename = os.path.basename(os.path.splitext(file_path)[0])
+            else:
+                print("Error: file_path is None")
+                return  # Trả về hoặc xử lý lỗi theo cách của bạn
+            # basename = os.path.basename(os.path.splitext(file_path)[0])
             xml_path = os.path.join(self.default_save_dir, basename + XML_EXT)
             txt_path = os.path.join(self.default_save_dir, basename + TXT_EXT)
             json_path = os.path.join(self.default_save_dir, basename + JSON_EXT)
