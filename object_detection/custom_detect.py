@@ -119,7 +119,7 @@ def main():
         '--model',
         help='Path of the object detection model.',
         required=False,
-        default='models/face_regoin_5class_v2.tflite')
+        default='models/face_regoin_f4.tflite')
     parser.add_argument(
         '--input',
         help='Path to the video file. If not provided, camera will be used.',
